@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="results/figures/quintile_returns.png" alt="AQC_Reverse Quintile Returns" width="600"/>
+  <img src="results_real/figures/quintile_returns.png" alt="AQC_Reverse Quintile Returns" width="600"/>
 </p>
 
 <h1 align="center">AQC-Reverse Crowding Harvest Factor</h1>
