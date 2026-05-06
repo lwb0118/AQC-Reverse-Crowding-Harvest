@@ -11,12 +11,6 @@ data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
-# Results
-results/figures/*
-results/tables/*
-!results/figures/.gitkeep
-!results/tables/.gitkeep
-
 # IDE
 .vscode/
 .idea/
